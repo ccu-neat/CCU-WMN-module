@@ -1,0 +1,34 @@
+必須要改的變數一覽
+
+最大暫存封包資料數
+NETWORK_MAX_PACKET_TEMP_COUNT
+
+更動Time slot：
+TIME_SLOT
+WATCHDOG_SLOT
+
+更動甦醒等待資料時間：
+WorkTimeLimit(ms)
+
+提早多少ms起床
+nms_earlier
+
+
+啟動Power save：
+flag_power_svae = true;
+
+
+調clock 要注意
+timer1_reset_delay可能會改變，要重測
+
+此為最新版(parent random機制已改)
+
+設定裝置NODE ID：
+NODE_ID
+
+總NODE數量：
+NETWORK_MAX_NODE
+
+總HOP數量：
+NETWORK_MAX_HOP
+

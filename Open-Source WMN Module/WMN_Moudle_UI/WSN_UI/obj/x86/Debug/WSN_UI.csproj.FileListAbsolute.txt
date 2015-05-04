@@ -1,0 +1,11 @@
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\bin\Debug\WSN_UI.exe
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\bin\Debug\WSN_UI.pdb
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\obj\x86\Debug\WSN_UI.Form1.resources
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\obj\x86\Debug\WSN_UI.Properties.Resources.resources
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\obj\x86\Debug\WSN_UI.exe
+C:\Users\Neat-ProA\Documents\Google 雲端硬碟\碩士-程式碼\C#\WSN_UI\WSN_UI\WSN_UI\obj\x86\Debug\WSN_UI.pdb
+D:\柯凱翔\WSN_UI\WSN_UI\obj\x86\Debug\WSN_UI.exe
+D:\柯凱翔\WSN_UI\WSN_UI\obj\x86\Debug\WSN_UI.pdb
